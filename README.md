@@ -147,3 +147,4 @@ print("sekida") //結果はsekidaになる
 ## int型,float型
 
 integerの略、整数という意味floatは浮動小数点数のこと
+g
